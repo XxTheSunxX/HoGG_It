@@ -1,4 +1,4 @@
-"""HoGG It 1.0, Written by xXThe_SunXx. Updated: July 10th 2024"""
+"""HoGG_It 1.0, Written by XxTheSunxX. Updated: July 27Th 2024"""
 """For educational use only. Writer is not responsible for any physical, digital, or legal damaged caused by this script."""
 """Use at your own descretion"""
 
@@ -20,7 +20,7 @@ print(Fore.RED + """
 ██   ██ ██    ██ ██    ██ ██    ██         ██    ██    
 ██   ██  ██████   ██████   ██████  ███████ ██    ██    
 
-By xXThe_SunXx      
+By XxTheSunxX      
 """)
 print(Fore.WHITE + " ")
 

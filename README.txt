@@ -1,4 +1,4 @@
-﻿HoGG_It 1.0, Written by xXTheSunXx. Updated: July 10th 2024
+﻿HoGG_It 1.0, Written by XxTheSunxX. Updated: July 10th 2024
 
 Terms and Conditions:
 
